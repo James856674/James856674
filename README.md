@@ -14,9 +14,8 @@
 
 ## 🧠 Currently Learning
 
-- 🔹 **React.js** — for front-end and control panel interfaces.
+- 🔹 **Node JS** — for Back-end and control panel interfaces.
 - 🔹 **Advanced Win32 API** and kernel-level research.
-- 🔹 **Payload generation and execution techniques** (fileless, in-memory, etc.).
 
 ---
 
