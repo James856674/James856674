@@ -30,7 +30,6 @@
 
 - 💌 Email: `jamesharblin123@gmail.com`
 - 📬 Telegram: [@NightFr](https://t.me/NightFr)
-- 📱 WhatsApp: [+16815423588](https://wa.me/16815423588)
 
 ---
 
