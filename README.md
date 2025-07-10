@@ -8,14 +8,14 @@
 
 ## 💻 About Me
 
-- 👨‍💻 I'm a Red Team developer focused on creating and testing offensive tools.
+- 👨‍💻 I'm junior programmer for world.
 
 ---
 
 ## 🧠 Currently Learning
 
-- 🔹 **Node JS** — for Back-end and control panel interfaces.
-- 🔹 **Advanced Win32 API** and kernel-level research.
+- 🔹 **Node JS** — now junior level.
+- 🔹 **C/C++**  - learning.
 
 ---
 
