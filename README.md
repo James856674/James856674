@@ -22,7 +22,7 @@
 ## ⚙️ Tech Stack & Tools
 
 - **Languages:** C/C++, Node.js, Python
-- **Platforms:** Windows (x86/x64), some macOS & Linux
+- **Platforms:** Only Windows
 
 ---
 
